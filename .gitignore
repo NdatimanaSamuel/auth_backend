@@ -1,0 +1,79 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+lib/
+vendor/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variable files
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VSCode
+.vscode/
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# WebStorm
+.idea/
+
+# Jest
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Log files
+*.log
+log-debug.log
+log-error.log
+log-info.log
+log-verbose.log
+log-warn.log
+
+# Parcel
+.cache/
+
+# Snowpack
+web_modules/
+snowpack.config.js
